@@ -1,0 +1,19 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="All rights reserved"
+[[mods]]
+modId="marumasaworld"
+version="1.16.5"
+displayName="まるまさワールドmod"
+logoFile="marumasaworld.png"
+credits="まるまさ"
+authors="まるまさ"
+description='''
+アイテム,ブロックを追加するmod
+'''
+[[dependencies.marumasaworld]]
+    modId="forge"
+    mandatory=true
+    versionRange="[36,)"
+    ordering="NONE"
+    side="BOTH"
