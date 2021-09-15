@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "marumasa",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "marumasaworld:marumasa_ingot"
+    }
+  },
+  "result": {
+    "item": "marumasaworld:marumasa_block"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "marumasaworld:item/marumasa_sword_2"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "item.marumasaworld.marumasa_tool:A": "§a低出力破壊モード",
+  "item.marumasaworld.marumasa_tool:B": "§a通常出力解放モード",
+  "change.item.marumasaworld.marumasa_tool:A": "§a§lモード変形[通常出力解放モード]",
+  "change.item.marumasaworld.marumasa_tool:B": "§a§lモード変形[低出力破壊モード]",
+
+  "item.marumasaworld.marumasa_pickaxe": "まるまさインゴット ピッケル",
+  "item.marumasaworld.marumasa_sword": "まるまさインゴット ソード",
+  "item.marumasaworld.marumasa_hoe": "まるまさインゴット クワ",
+  "item.marumasaworld.marumasa_shovel": "まるまさインゴット シャベル",
+  "item.marumasaworld.marumasa_axe": "まるまさインゴット アックス",
+
+  "item.marumasaworld.marumasa_pickaxe_2": "まるまさインゴット ピッケル Ver.2",
+  "item.marumasaworld.marumasa_sword_2": "まるまさインゴット ソード Ver.2",
+  "item.marumasaworld.marumasa_hoe_2": "まるまさインゴット クワ Ver.2",
+  "item.marumasaworld.marumasa_shovel_2": "まるまさインゴット シャベル Ver.2",
+  "item.marumasaworld.marumasa_axe_2": "まるまさインゴット アックス Ver.2",
+
+  "item.marumasaworld.marumasa_fruit": "まるまさフルーツ",
+  "item.marumasaworld.marumasa_fruit.lore": "謎の金属「まるまさ」が含まれた食べ物",
+  "item.marumasaworld.marumasa_ingot": "まるまさインゴット",
+  "itemGroup.marumasaworld_tab": "まるまさワールドのタブ",
+  "block.marumasaworld.marumasa_block": "まるまさブロック",
+  "block.marumasaworld.marumasa_haryuuhou": "今制作中のブロック"
+}
