@@ -12,8 +12,6 @@ First source code for mods developed by malken
 |アイテム追加|まるまさフルーツ|
 |ブロック追加|作りかけのブロック|
 
-<br>
-
 ***marumasaworld_minecraft_mod_Ver.1.00***
 <br>
 
