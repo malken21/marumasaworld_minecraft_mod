@@ -2,7 +2,7 @@
 First source code for mods developed by malken
 <br>
 
-|minecraft foge Ver.1.17.1 - 37.0.60|[marumasaworld_mod_Ver.1.10](https://github.com/malken21/malken21_items/blob/main/marumasaworld_mod_1.17.1.jar?raw=true)|
+|minecraft foge Ver.1.17.1 - 37.0.60|marumasaworld_mod_Ver.1.10|
 |:-----------:|:------------:|
 |アイテム追加|まるまさインゴット アックス|
 |アイテム追加|まるまさインゴット アックス Ver.2|
@@ -17,14 +17,14 @@ First source code for mods developed by malken
 
 <br>
 
-|minecraft foge Ver.1.16.5 - 36.2.4|[marumasaworld_mod_Ver.1.00](https://github.com/malken21/malken21_items/blob/main/marumasaworld_mod_1.16.5.jar?raw=true)|
+|minecraft foge Ver.1.16.5 - 36.2.4|marumasaworld_mod_Ver.1.00|
 |:-----------:|:------------:|
 |ブロック追加|まるまさブロック|
 |アイテム追加|まるまさインゴット|
 |アイテム追加|まるまさフルーツ|
 |ブロック追加|作りかけのブロック|
 ## License(ライセンス)
-日本語: [MarumasaLicense v1.0 (日本語)](https://github.com/malken21/MarumasaLicenses/blob/main/MarumasaLicense_v1.0/LICENSE-ja.md)
+日本語: [MarumasaLicense v2.0 (日本語)](https://github.com/malken21/MarumasaLicenses/blob/main/MarumasaLicense_v2.0/LICENSE-ja.md)
 <br>
 <br>
-English: [MarumasaLicense v1.0 (English)](https://github.com/malken21/MarumasaLicenses/blob/main/MarumasaLicense_v1.0/LICENSE-en.md)
+English: [MarumasaLicense v2.0 (English)](https://github.com/malken21/MarumasaLicenses/blob/main/MarumasaLicense_v2.0/LICENSE-en.md)
